@@ -1,0 +1,2 @@
+{"Nama_Wilayah":"DKI Jakarta","Jumlah_Positif":"626.169","Jumlah_Dirawat":"12.308","Jumlah_Sembuh":"580.814","Jumlah_Meninggal":"32.923
+","Nama_Operator":"Siti Safniyyah","NIM_Mahasiswa":"191011402099"}
